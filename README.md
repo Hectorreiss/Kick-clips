@@ -28,4 +28,4 @@ npm run preview
   opção manual de selecionar um arquivo de vídeo local para testar o editor.
 - A exportação grava o resultado no navegador (WebM). Um backend com
   Node.js + FFmpeg seria o próximo passo para converter automaticamente
-  para MP4 (H.264/AAC).
+  para MP4 
