@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "api/resolve-clip.js": {
+      "memory": 1536,
+      "maxDuration": 60
+    },
+    "api/proxy-video.js": {
+      "maxDuration": 30
+    },
+    "api/proxy-manifest.js": {
+      "maxDuration": 15
+    }
+  }
+}
